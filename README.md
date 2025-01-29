@@ -21,7 +21,7 @@ You can visit my live website here: **[My Portfolio](https://yourusername.github
 
 ## 📬 Contact Me  
 If you have any inquiries, feel free to reach out:  
-📧 Email: your.email@example.com  
-📱 WhatsApp: +123456789  
+📧 Email: your.alinaserhema60@gmail.com  
+📱 WhatsApp: +201068643407
 
 ---
