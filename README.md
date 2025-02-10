@@ -12,7 +12,7 @@ It showcases my skills, projects, and ways to connect with me.
 - Contact options including email and WhatsApp  
 
 ## 📂 Live Demo  
-You can visit my live website here: **[My Portfolio](https://yourusername.github.io/your-repo-name/)**  
+You can visit my live website here: **[My Portfolio](https://ali-abdelnaser.github.io/Personal-Website/)**  
 
 ## 🛠 Technologies Used  
 - HTML5  
@@ -21,7 +21,7 @@ You can visit my live website here: **[My Portfolio](https://yourusername.github
 
 ## 📬 Contact Me  
 If you have any inquiries, feel free to reach out:  
-📧 Email: your.alinaserhema60@gmail.com  
+📧 Email: alinaserhema60@gmail.com  
 📱 WhatsApp: +201068643407
 
 ---
